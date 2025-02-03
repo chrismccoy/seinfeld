@@ -1,3 +1,4 @@
 Seinfeld JSON Data Dump.
 
-parse.sh - using jq to parse trivia questions and answers by season.
+Filter out Questions and Answers by Episode, Season, Question and Answer for Seinfeld Trivia Night.
+
